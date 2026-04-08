@@ -40,7 +40,7 @@ The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx
 ## Citation & Publication
 This work has been accepted for presentation at the **2026 4th International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)**—**IEEE IC2PCT**, May 2026.
 
-**Author:** Animesh Biswas  
+**Author:** Abhishek Mohanty, Animesh Biswas, Sarita Nanda and Kananbala Ray  
 **Department:** Electronics & Telecommunication Engineering, KIIT University
 
 ---
