@@ -28,7 +28,7 @@ The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx
 | **Worst Negative Slack (WNS)** | **+4.614 ns** |
 | **Total On-Chip Power** | **0.129 W** |
 
-Full Synthesis and Timing reports available in the [docs/](https://github.com/animesh9364/DSP-ALU-6-Stage-Pipelined-VLSI/docs) directory.
+Full Synthesis and Timing reports available in the [reports/](https://github.com/animesh9364/DSP-ALU-6-Stage-Pipelined-VLSI/reports) directory.
 
 ---
 
