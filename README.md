@@ -28,6 +28,8 @@ The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx
 | **Worst Negative Slack (WNS)** | **+4.614 ns** |
 | **Total On-Chip Power** | **0.129 W** |
 
+Full Synthesis and Timing reports available in the docs/ directory.
+
 ---
 
 ## Development Tools
