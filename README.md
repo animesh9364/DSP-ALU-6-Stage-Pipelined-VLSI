@@ -22,13 +22,13 @@ The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx
 
 | Category | Metric | Value | Status |
 | :--- | :--- | :--- | :--- |
-| **Timing** | Max Operating Frequency ($F_{max}$) | **100 MHz** (Nexys 4 DDR Baseline) | ✅ Pass |
-| | Worst Negative Slack (WNS) | **+4.614 ns** | ✅ Pass |
-| | Worst Hold Slack (WHS) | **+0.052 ns** | ✅ Pass |
-| **Power** | Dynamic Power Consumption | **0.025 W** | ✅ Optimized |
-| | Total On-Chip Power | **0.129 W** | ✅ Optimized |
-| **Resources** | DSP48E1 Slices | **1** (Multiplication Hardware) | ✅ Hard-macro |
-| | Slice LUTs | **87** (0.13% Utilization) | ✅ Minimal |
+| **Timing** | Max Operating Frequency ($F_{max}$) | **100 MHz** (Nexys 4 DDR Baseline) | Pass |
+| | Worst Negative Slack (WNS) | **+4.614 ns** | Pass |
+| | Worst Hold Slack (WHS) | **+0.052 ns** | Pass |
+| **Power** | Dynamic Power Consumption | **0.025 W** | Optimized |
+| | Total On-Chip Power | **0.129 W** | Optimized |
+| **Resources** | DSP48E1 Slices | **1** (Multiplication Hardware) | Hard-macro |
+| | Slice LUTs | **87** (0.13% Utilization) | Minimal |
 
 ---
 > **Note:** Detailed engineering reports for [Utilization](./reports/utilization_report.txt), [Timing](./reports/timing_summary.txt), and [Power](./reports/power_analysis.txt) are available in the `/reports` directory.
