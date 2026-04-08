@@ -42,8 +42,8 @@ Full Synthesis Utilization, Implementaion Timing, and Power reports are availabl
 ## Citation & Publication
 This work has been accepted for presentation at the **2026 4th International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES)**—**IEEE IC2PCT**, May 2026.
 
-**Author:** Abhishek Mohanty, and Animesh Biswas
-**Department:** Electronics & Telecommunication Engineering, KIIT University
+**Author:** Abhishek Mohanty, and Animesh Biswas.
+**Department:** Electronics & Telecommunication Engineering, KIIT University.
 
 ---
 
