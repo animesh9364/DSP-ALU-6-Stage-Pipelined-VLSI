@@ -20,16 +20,18 @@ Modern high-frequency signal processing requires ALUs that balance propagation d
 ## Performance Metrics
 The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx Artix-7 XC7A100T) platform.
 
-| Metric | Value |
-| :--- | :--- |
-| **Max Operating Frequency ($F_{max}$)** | **100 MHz** (Nexys 4 DDR Baseline) |
-| **Dynamic Power Consumption** | **0.025 W** |
-| **Critical Path Delay** | **~5.29 ns** |
-| **Worst Negative Slack (WNS)** | **+4.614 ns** |
-| **Total On-Chip Power** | **0.129 W** |
+| Category | Metric | Value | Status |
+| :--- | :--- | :--- | :--- |
+| **Timing** | Max Operating Frequency ($F_{max}$) | **100 MHz** (Nexys 4 DDR Baseline) | ✅ Pass |
+| | Worst Negative Slack (WNS) | **+4.614 ns** | ✅ Pass |
+| | Worst Hold Slack (WHS) | **+0.052 ns** | ✅ Pass |
+| **Power** | Dynamic Power Consumption | **0.025 W** | ✅ Optimized |
+| | Total On-Chip Power | **0.129 W** | ✅ Optimized |
+| **Resources** | DSP48E1 Slices | **1** (Multiplication Hardware) | ✅ Hard-macro |
+| | Slice LUTs | **87** (0.13% Utilization) | ✅ Minimal |
 
-Full Synthesis Utilization, Implementaion Timing, and Power reports are available in the [reports/](https://github.com/animesh9364/DSP-ALU-6-Stage-Pipelined-VLSI/tree/main/reports) directory.
-
+---
+> **Note:** Detailed engineering reports for [Utilization](./reports/utilization_report.txt), [Timing](./reports/timing_summary.txt), and [Power](./reports/power_analysis.txt) are available in the `/reports` directory.
 ---
 
 ## Development Tools
