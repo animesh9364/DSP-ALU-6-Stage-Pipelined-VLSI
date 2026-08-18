@@ -1,10 +1,10 @@
 Research Paper Supplement
-This source code is a technical supplement to the research paper: 
+This source code is a technical supplement to the research paper:
 "Design and Implementation of a High-Performance 16-Bit DSP ALU Using Six-Stage Pipelining"
 
 MIT License
 
-Copyright (c) 2026 Animesh Biswas
+Copyright (c) 2026 Abhishek Mohanty, Animesh Biswas, Dr. Sarita Nanda, Kananbala Ray
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
