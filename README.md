@@ -45,8 +45,9 @@ The design was validated and implemented on the **Digilent Nexys 4 DDR** (Xilinx
 This work has been accepted and presented at the **2026 IEEE 6th International Conference on Computing, Power, and Communication Technologies (IC2PCT)**, May 2026.
 
 **Authors:** Abhishek Mohanty, Animesh Biswas, Dr. Sarita Nanda, and Kananbala Ray.  
-**Department:** Electronics & Telecommunication Engineering, KIIT University.  
-**IEEE Xplore / DOI:** [10.1109/IC2PCT68894.2026.11584342](https://doi.org/10.1109/IC2PCT68894.2026.11584342)
+**Department:** Electronics & Telecommunication Engineering, KIIT University.
+**IEEE Xplore:** [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11584342)
+**DOI:** [10.1109/IC2PCT68894.2026.11584342](https://doi.org/10.1109/IC2PCT68894.2026.11584342)
 
 ### **IEEE Copyright Notice**
 > © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
